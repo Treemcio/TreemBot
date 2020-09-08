@@ -1,0 +1,98 @@
+{  
+    "desc": {
+    "addxp": "Dodaje xp",
+    "bset": "Ustaw kogoś permisje",
+    "ass": "Wysyła obraz",
+    "avatar": "Sprawdź kogoś avatar",
+    "ban": "Zbanuj kogoś",
+    "boobs": "Wysyła obraz",
+    "bperms": "Sprawdź swoje permisje w bocie",
+    "clear": "Usuń [x] wiadomości",
+    "coin": "Rzuć pieniążkiem",
+    "color": "Sprawdź hex color",
+    "conf": "Sprawdź config file",
+    "contact": "Napisz do supportu bota",
+    "daily": "Zbierz dzienne pieniądze",
+    "embed": "Napisz wiadomość embed",
+    "flip": "Odwróć text",
+    "help": "Komenda pomocy",
+    "id": "Sprawdź id użytkownika",
+    "invite": "Link do zaproszenia bota",
+    "kick": "Wyrzuć kogoś",
+    "monthly": "Zbierz miesięczne pieniądze",
+    "nsfw": "Wysyła zdjęcie nsfw",
+    "pay": "Przelej komuś pieniądze",
+    "poll": "Stwórz głosowanie",
+    "profil": "Sprawdź profil",
+    "rate": "Bot kogoś oceni",
+    "resetwarns": "Reset warnów",
+    "role": "Info o roli",
+    "rolecolor": "Zmień kolor roli",
+    "say": "Napisz coś jako bot",
+    "send": "Wyślij do kogoś prywatną wiadomość jako bot",
+    "setlang": "Zmień język serwerowy",
+    "setprefix": "Zmień prefix serwerowy",
+    "slots": "Zagraj w grę kasynową",
+    "slowmode": "Zmień slowmode na kanale",
+    "stop": "Zatrzymuje bota",
+    "thighs": "Wysyła zdjęcie",
+    "user": "Info o użytkowniku",
+    "vkick": "Wyrzuć kogoś z VC",
+    "warn": "Zwaruj kogoś",
+    "warnings": "Sprawdź warny użytkownika",
+    "weather": "Sprawdź pogodę",
+    "work": "Pracuj co 10 minut i zarabiaj $$$ 💰",
+    "resetuser": "Zresetuj statystyki użytkownika"
+  },
+  
+  
+  
+  "brak_permisji": "Nie masz permisji 🌾",
+  "write": "Napisz ",
+  "UserIsBot": "On jest botem 👥",
+  "PodajUser": "Napisz użytkownika 🧠",
+  "error": "Błąd 🛠️",
+  "brak_reason": "Podaj powód 🧾",
+  "noNSFW": "Ten kanal nie jest nsfw 🔞",
+  "podaj_wartosc": "Podaj wartość potrzebną do wykonania tej komendy 🤳",
+  "sam_siebie": "Czemu wykonujesz komendę na sobie?!",
+  "bperms": "Musisz mieć permisje bota na poziomie ",
+  "bperms2": "",
+  "nodata": "Brak danych",
+  "welcome": "Witamy na serwerze ",
+  "goodbay": "Zegnamy z serwera ",
+  
+  "setlang": {
+    "brak_lang": "Błędny język 👅",
+    "ustawiono_lang": "Zmieniłeś język na"
+  },
+   "help": {
+   "helpmsg": "Napisz ",
+   "helpmsg2": ", żeby zobaczyć opis komendy",
+   "noprefix": "Napisz komendę bez prefixu",
+   "nocmd": "Brak komendy",
+   "tak": "Tak",
+   "no": "Nie",
+   "Owner": "Właściciela",
+   "Eco": "Ekonomia",
+   "basic": "Podstawowe",
+   "system": "Systemowe",
+   "mod": "Moderacja"
+   },
+  "ban": {
+    "not_ban": "Nie możesz zbanować tej osoby"
+    
+  },
+  "index": {
+    "TreemBot": "Jeżeli potrzebujesz pomocy wpisz ",
+    "lvlup": "zdobyłeś kolejny level ",
+    "lvlmoney": "I w nagrodę masz ",
+    "brak_send": "Nie mam permisji 'SEND MESSAGES' na tym serwerze"
+  },
+  "profil": {
+    "money": "Pieniążki"
+  }
+    
+  
+
+}

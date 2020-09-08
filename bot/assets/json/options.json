@@ -1,0 +1,41 @@
+{
+  "_tokenType": "Bot",
+  "shardCount": 1,
+  "messageCacheMaxSize": 200,
+  "messageCacheLifetime": 0,
+  "messageSweepInterval": 0,
+  "fetchAllMembers": false,
+  "disableMentions": "none",
+  "partials": [],
+  "restWsBridgeTimeout": 5000,
+  "restRequestTimeout": 15000,
+  "retryLimit": 1,
+  "restTimeOffset": 500,
+  "restSweepInterval": 60,
+  "presence": {},
+  "ws": {
+    "large_threshold": 250,
+    "compress": false,
+    "properties": {
+      "$os": "linux",
+      "$browser": "discord.js",
+      "$device": "discord.js"
+    },
+    "version": 6,
+    "presence": {
+      "afk": false,
+      "since": null,
+      "status": "online",
+      "game": null
+    }
+  },
+  "http": {
+    "version": 7,
+    "api": "https://discordapp.com/api",
+    "cdn": "https://cdn.discordapp.com",
+    "invite": "https://discord.gg"
+  },
+  "shards": [
+    0
+  ]
+}

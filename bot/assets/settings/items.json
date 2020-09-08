@@ -1,0 +1,20 @@
+{
+  "Kwiatek": {
+    "buy": 10,
+    "sell": 5,
+    "rare": "Słabe",
+    "emotka": "🌷"
+  },
+  "Chleb": {
+    "buy": 20,
+    "sell": 12,
+    "rare": "Słabe",
+    "emotka": "🍞"
+  },
+  "Diament": {
+    "buy": 250,
+    "sell": 125,
+    "rare": "Rzadkie",
+    "emotka": "💎"
+  }
+}

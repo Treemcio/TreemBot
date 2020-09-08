@@ -1,0 +1,99 @@
+{
+  "desc": {
+    "addxp": "Adds xp",
+    "bset": "Set someone permissions",
+    "ass": "Sends picture",
+    "avatar": "Check user avatar",
+    "ban": "Ban someone",
+    "boobs": "Send picture",
+    "bperms": "Check your permissions",
+    "clear": "Clear [x] messages",
+    "coin": "Throw coin",
+    "color": "Check hex color",
+    "conf": "Check config file",
+    "contact": "Write to support bot",
+    "daily": "Collect daily money",
+    "embed": "Write embed message",
+    "flip": "Flip the text",
+    "help": "Help command",
+    "id": "Check users id",
+    "invite": "Link to invite the bot",
+    "kick": "Kick someone",
+    "monthly": "Collect monthly money",
+    "nsfw": "Sends random nsfw image",
+    "pay": "Pay someone your money",
+    "poll": "Create poll",
+    "profil": "Check users profil",
+    "rate": "Bot rate someone",
+    "resetwarns": "Reset warns",
+    "role": "Info about a role",
+    "rolecolor": "Change role color",
+    "say": "Say something as a bot",
+    "send": "Send to someone dm message as a bot",
+    "setlang": "Change server language",
+    "setprefix": "Set server prefix",
+    "slots": "Play a casino game",
+    "slowmode": "Change a channel slowmode",
+    "stop": "Stop a bot",
+    "thighs": "Sends picture",
+    "user": "Info about user",
+    "vkick": "Kick a someone from vc",
+    "warn": "Warn someone",
+    "warnings": "Check users warnings",
+    "weather": "Check weather",
+    "work": "Work 💰",
+    "resetuser": "Reset user stats"
+  },
+  
+  
+  
+  "brak_permisji": "You don't have permissions 🌾",
+  "write": "Write ",
+  "UserIsBot": "This is not user 👥",
+  "podajuser": "Write a user 🧠",
+  "error": "Error 🛠️",
+  "brak_reason": "Give a reason 🧾",
+  "noNSFW": "This channel is not a nsfw 🔞",
+  "podaj_wartosc": "Enter a value needed to run a command 🤳",
+  "sam_siebie": "You can't do this on yourself",
+  "bperms": "You must have bot permissions on ",
+  "bperms2": "level",
+  "nodata": "No data",
+  "welcome": "Welcome to the server ",
+  "goodbay": "Goodbay ",
+ 
+  
+  "setlang": {
+    "brak_lang": "Invalid language 🧾",
+    "ustawiono_lang": "Now language is"
+  },
+ "help": {
+   "helpmsg": "Write ",
+   "helpmsg2": " to see description about command",
+   "noprefix": "Write this command without prefix",
+   "nocmd": "This command does not exist",
+   "tak": "Yes",
+   "no": "No",
+   "Owner": "Only owner",
+   "Eco": "Economy",
+   "basic": "Basic",
+   "system": "System",
+   "mod": "Moderation"
+  },
+  "ban": {
+    "not_ban": "You don't ban this user"
+    
+  },
+  "index": {
+    "TreemBot": "If you need help type ",
+    "lvlup": "WoW you have reached the next level",
+    "lvlmoney": "And you have ",
+    "brak_send": "I don't have permission 'SEND MESSAGES' on this server"
+  },
+  "profil": {
+    "money": "Money"
+  }
+    
+  
+
+}
